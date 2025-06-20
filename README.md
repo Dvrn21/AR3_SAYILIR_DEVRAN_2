@@ -48,7 +48,7 @@ void loop() {
 }
 
 ```
-##📈 Observation à l’oscilloscope
+📈 Observation à l’oscilloscope
 Sonde branchée sur la broche D5 (ENA)
 
 GND oscilloscope connecté au GND Arduino
