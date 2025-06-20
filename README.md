@@ -46,3 +46,26 @@ void setup() {
 void loop() {
   // Signal stable pour l’oscilloscope
 }
+
+```
+##📈 Observation à l’oscilloscope
+Sonde branchée sur la broche D5 (ENA)
+
+GND oscilloscope connecté au GND Arduino
+
+Signal carré visible (~490 Hz) avec un rapport cyclique de 50%
+
+✅ Résultats
+Le moteur tourne à mi-vitesse.
+
+Le signal PWM est clairement observable sur l’oscilloscope.
+
+Le test confirme le bon fonctionnement du pilotage via PWM.
+
+📎 Rapport complet
+📄 Télécharger le rapport PDF
+
+Réalisé par :
+Devran Sayilir
+Alexis Cantaloube
+Pierre Tavergne
